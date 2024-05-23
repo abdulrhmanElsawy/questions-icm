@@ -7,6 +7,8 @@ import React, { useState, useRef } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 
+import Landing3 from './components/Landing3';
+
 import Landing2 from './components/Landing2';
 import ScrollToTopButton from './components/ScrollToTopButton';
 
